@@ -1,4 +1,5 @@
 import './App.css'
+import Countries from './componets/Countries'
 
 function App() {
   
@@ -7,7 +8,7 @@ function App() {
     <>
       
       <h1>Vite + React</h1>
-      
+      <Countries></Countries>
     </>
   )
 }

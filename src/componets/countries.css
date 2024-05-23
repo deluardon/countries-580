@@ -1,0 +1,25 @@
+.contry-logo{
+ width: 200px;
+ height: 200px;
+ object-fit: cover;
+
+}
+.box{
+    border: 2px solid tomato;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    
+}
+.img-box{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.contry-photo{
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
